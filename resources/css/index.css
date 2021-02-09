@@ -1,0 +1,16 @@
+/* Universal Style */
+
+body {
+    margin: 0;
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* Body Style */
+
